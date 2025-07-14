@@ -76,7 +76,7 @@ export default function LandingPage() {
           <div className="flex h-20 items-center justify-between">
             <Link href="/" className="flex items-center space-x-2 scroll-animate [--animation-delay:100ms] fade-in-left">
               <div className="w-8 h-8 flex items-center justify-center bg-foreground text-background rounded-full">
-                <span className="font-bold text-sm">C</span>
+                <span className="font-bold text-sm">L</span>
               </div>
               <span className="font-semibold text-lg tracking-wider">Learnyst AI</span>
             </Link>
@@ -281,7 +281,7 @@ export default function LandingPage() {
                 <div className="col-span-2 lg:col-span-2">
                      <div className="flex items-center space-x-2 mb-4">
                         <div className="w-8 h-8 flex items-center justify-center bg-foreground text-background rounded-full">
-                            <span className="font-bold text-sm">C</span>
+                            <span className="font-bold text-sm">L</span>
                         </div>
                         <span className="font-semibold text-lg tracking-wider">Learnyst AI</span>
                     </div>

@@ -208,7 +208,7 @@ export default function Dashboard() {
             <div className={`flex items-center space-x-4 transition-all duration-700 ${isVisible ? "opacity-100 translate-x-0" : "opacity-0 -translate-x-8"}`}>
               <Link href="/" className="flex items-center space-x-2">
                 <div className="w-8 h-8 flex items-center justify-center bg-foreground text-background rounded-full">
-                  <span className="font-bold text-sm">C</span>
+                  <span className="font-bold text-sm">L</span>
                 </div>
                 <span className="font-semibold text-lg tracking-wider">Learnyst AI</span>
               </Link>
